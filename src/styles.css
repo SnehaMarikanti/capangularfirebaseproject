@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+/* Made with love by Mutiullah Samim*/
+
+body{
+  background-image: url("../src/assets/hhf.jpg");
+
+  color : goldenrod;
+}
+ .card{
+   background-color: rgba(218, 226, 207, 0.199);
+ }
